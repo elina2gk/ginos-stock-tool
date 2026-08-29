@@ -1,0 +1,1 @@
+# ginos-stock-tool
