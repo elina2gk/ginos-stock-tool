@@ -1,0 +1,28 @@
+{
+  "email": "elina2.gk@gmail.com",
+  "phone": "",
+  "carrier": "AT&T",
+  "email_on": true,
+  "sms_on": false,
+  "threshold_pct": 1.0,
+  "watchlist": "nvda pltr crwv amzn googl tsla skyhy tsm ",
+  "watchlist_stocks": [
+    "NVDA",
+    "PLTR",
+    "CRWV",
+    "AMZN",
+    "GOOGL",
+    "TSLA",
+    "SKYHY",
+    "TSM",
+    "AAPL"
+  ],
+  "watchlist_etfs": [],
+  "last_sent": {
+    "WL-NVDA-2026-08-29": "2026-08-29T12:30:33.352979",
+    "WL-CRWV-2026-08-29": "2026-08-29T12:30:33.353033",
+    "WL-TSLA-2026-08-29": "2026-08-29T12:30:33.353054",
+    "WL-TSM-2026-08-29": "2026-08-29T12:30:33.353070"
+  },
+  "alert_log": []
+}
